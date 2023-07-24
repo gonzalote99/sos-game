@@ -1,0 +1,24 @@
+.gameBoard {
+  margin: auto;
+}
+
+.header {
+  margin: auto;
+  text-align: center;
+}
+
+.par {
+  margin-top: 20px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+p {
+  margin: auto;
+}
+
+table, th, tr {
+  border: 2px solid black;
+   height: 120px;
+   width: 400px;
+}
